@@ -1,9 +1,9 @@
-@import url("https://fonts.googleapis.com/css?family=Limelight");
+@import url("https://fonts.googleapis.com/css?family=Bahnschrift");
 h1 {
-  font-family: 'Limelight', cursive; }
+  font-family: 'Bahnschrift', cursive; }
 
 .bg-img {
-  background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.5)), url("/tachina-lee.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.5)), url("../pics/nordwood-themes-483517-unsplash.jpg");
   background-blend-mode: darken;
   background-position: center center;
   background-repeat: no-repeat;
